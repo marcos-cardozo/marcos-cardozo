@@ -47,8 +47,8 @@ Jasmine Beauty Salon es una aplicación web para la gestión de turnos en un sal
 
 ## 📫 Contacto
 
-- **Correo Electrónico:** marcosnazarenocardozo@gmail.com
-- **LinkedIn:** [marcos-cardozo-linkedin]([https://www.linkedin.com/in/marcos-cardozo](https://www.linkedin.com/in/marcos-nazareno-cardozo-8b6980314/])
+- **Correo Electrónico:** [marcosnazarenocardozo@gmail.com](mailto:marcosnazarenocardozo@gmail.com)
+- **LinkedIn:** [marcos-cardozo-linkedin](https://www.linkedin.com/in/marcos-nazareno-cardozo-8b6980314/)
 
 
 ## 🎯 Habilidades
